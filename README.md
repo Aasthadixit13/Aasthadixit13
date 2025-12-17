@@ -16,10 +16,12 @@ I'm a Full-Stack Developer passionate about building clean, responsive, and scal
   <li>Strong foundation in <b>HTML, CSS, Bootstrap, JavaScript, React</b></li>
   <li>Experience building full-stack applications using <b>MERN Stack</b></li>
   <li>Hands-on with <b>MongoDB, Node.js, Express, REST APIs</b></li>
+  <li>API development & testing using <b>Thunder Client</b></li>
   <li>Experience in <b>Data Visualization & basic Data Analysis</b></li>
   <li>Exploring <b>Python for data analysis and visualization</b></li>
   <li>Actively preparing for <b>MNC React / Full Stack Developer roles</b></li>
 </ul>
+
 
 <hr/>
 
@@ -55,6 +57,13 @@ I'm a Full-Stack Developer passionate about building clean, responsive, and scal
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+<ul>
+  <li>Thunder Client – API testing & debugging</li>
+  <li>REST API validation (GET, POST, PUT, DELETE)</li>
+  <li>Environment-based API testing</li>
+</ul>
+
 
 <hr/>
 
