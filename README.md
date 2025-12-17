@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Aastha Dixit</h1>
 
 <p align="center">
-  💻 Full Stack Developer (MERN) | Frontend Specialist | Data Visualization & Analysis Learner
+  💻 Software Developer
 </p>
 
 <hr/>
