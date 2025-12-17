@@ -84,22 +84,6 @@ I'm a Full-Stack Developer passionate about building clean, responsive, and scal
 </p>
 
 <hr/>
-
-<h3>🛒 ShoppyGlobe – E-Commerce Backend API</h3>
-
-<ul>
-  <li>RESTful APIs for products and cart management</li>
-  <li>JWT-based authentication system</li>
-  <li>MongoDB database integration</li>
-</ul>
-
-<p>
-<b>Tech:</b> Node.js, Express, MongoDB<br/>
-📂 <a href="https://github.com/Aasthadixit13/ShoppyGlobe-Node.js-Express-Backend" target="_blank">GitHub Repository</a>
-</p>
-
-<hr/>
-
 <h3>🛍 ShoppyGlobe – Modern E-Commerce Application</h3>
 
 <p>
@@ -121,6 +105,23 @@ A complete, responsive, and production-ready e-commerce web application built us
 </p>
 
 <hr/>
+
+<h3>🛒 ShoppyGlobe – E-Commerce Backend API</h3>
+
+<ul>
+  <li>RESTful APIs for products and cart management</li>
+  <li>JWT-based authentication system</li>
+  <li>MongoDB database integration</li>
+</ul>
+
+<p>
+<b>Tech:</b> Node.js, Express, MongoDB<br/>
+📂 <a href="https://github.com/Aasthadixit13/ShoppyGlobe-Node.js-Express-Backend" target="_blank">GitHub Repository</a>
+</p>
+
+<hr/>
+
+
 
 <h2>📊 GitHub Stats</h2>
 
