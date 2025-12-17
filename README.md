@@ -41,7 +41,7 @@ I'm a Full-Stack Developer passionate about building clean, responsive, and scal
 ### 🔧 Tools & Platforms
 - Git & GitHub  
 - VS Code  
-- Postman / Thunder Client  
+- Thunder Client  
 - Vercel  
 
 ---
